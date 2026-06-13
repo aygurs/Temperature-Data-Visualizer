@@ -1,4 +1,4 @@
-# Weather App - Temperature Data Analyzer
+# Temperature Data Visualizer
 
 A C++ console application for analyzing and visualizing European temperature data (1980-2019) using candlestick charts, graphs, and data tables.
 
